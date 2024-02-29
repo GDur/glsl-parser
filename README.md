@@ -11,6 +11,7 @@ Github](https://github.com/ShaderFrog/glsl-parser).
 
 This library has limited Typescript support.
 
+
 See [the state of this library](#state-of-this-library) for limitations and
 goals of this compiler.
 
